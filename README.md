@@ -25,15 +25,11 @@ This app make by document team in first semester of 2019 - 2020.
 
 ## How to use it
 
-1. Login and go to Home screen
-2. Manager and search user info
-3. Join event with event-code
-4. Scan student card
-5. Manager organ
-6. Manager event
-7. Manager question
-8. Send email
-9. Import list attendance
+1. Clone project with command: git clone https://github.com/the-document/Attendance-Manager.git
+2. Open project with android studio
+3. [Option] Build and run on emulator
+4. [Option] Build and run on your device (you have to open develop mode).
+5. [Option] Build to apk file, send to your friend and hapy with result.
 
 ## Develop team
 
